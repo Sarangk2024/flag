@@ -5,9 +5,9 @@ import pg from "pg";
 const db = new pg.Client({
   user: "postgres",
   host: "localhost",
-  database: "Demo",
-  password: "12345",
-  port: 5432,
+  database: "your db name",
+  password: "your password for psql",
+  port: 5432,//default
 });
 
 const app = express();
