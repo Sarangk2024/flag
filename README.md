@@ -32,4 +32,9 @@ then run npm i
 then chnage the db name and password,port
 after you can run the pgm using node index.js
 ```
+## PSQL Setup
+-STEP 1: CREATE A DATABASE
+-STEP 2: CREATE A TABLE 
+-STEP 3:IMPORT THE CSV FILE IN THE TABLE
+
 You Can View The Output In Firefox Browser, Chrome and Edge Didn't Showing The Flag Symbols
